@@ -2,7 +2,7 @@
 分布式系统作业调度系统 easyjob by yanghr
 
 # 功能：将项目中api包打包jar 放入分布式系统中， 将要执行的异步作业等继承job类，登陆api中的url 
-即可观察job执行状态 ，同时调度系统发送kakfa,业务系统 监听topic，执行job.run方法开始作业。
+# 即可观察job执行状态 ，同时调度系统发送kakfa,业务系统 监听topic，执行job.run方法开始作业。
 （v1.0大致要完成的内容）
 
 # 2019.11.10
